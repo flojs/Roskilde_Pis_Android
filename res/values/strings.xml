@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">RoskildePis</string>
+    <color name="roskildeorange">#FF7300</color>
+    <color name="text_color">#FCFFF0</color>
+</resources>
